@@ -1,0 +1,21 @@
+{
+    "name": "pen-paper-coffee",
+    "displayName": "Pen Paper Coffee",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pen Paper Coffee",
+                "uiTheme": "vs",
+                "path": "./themes/pen-paper-coffee-color-theme.json"
+            }
+        ]
+    }
+}
