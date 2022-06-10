@@ -1,8 +1,8 @@
 {
     "name": "pen-paper-coffee",
     "displayName": "Pen Paper Coffee",
-    "description": "",
-    "version": "0.0.1",
+    "description": "A syntax theme specifically for writing papers in markdown but can also be used universally. Featuring a paper like color scheme.",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.55.0"
     },
