@@ -6,6 +6,7 @@
         "type": "git",
         "url": "https://github.com/nylki/pen-paper-coffee-vscode.git"
     },
+    "publisher": "nylki",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.55.0"
