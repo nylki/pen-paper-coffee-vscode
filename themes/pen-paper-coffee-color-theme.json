@@ -174,10 +174,11 @@
 			}
 		},
 		{
-			"name": "Variables",
+			"name": "special variables",
 			"scope": [
 				"variable.parameter",
-				"support.variable"
+				"support.variable",
+				"variable.other.member"
 			],
 			"settings": {
 				"foreground": "#5e78e1"
@@ -186,7 +187,7 @@
 		{
 			"name": "Functions",
 			"scope": [
-				"meta.function-call",
+				// "meta.function-call",
 				"support.function",
 				"entity.name.function"
 			],
@@ -242,7 +243,7 @@
 		},
 		{
 			"name": "Strings",
-			"scope": "string",
+			"scope": ["string", "punctuation.definition.string"],
 			"settings": {
 				"foreground": "#8f6928"
 			}
@@ -541,7 +542,23 @@
 			"settings": {
 				"foreground": "#434343"
 			}
-		}
+		},
+		//  Git
+		{
+			"name": "git commit title",
+			"scope": "meta.scope.subject.git-commit",
+			"settings": {
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "git line too long",
+			"scope": "invalid.deprecated.line-too-long.git-commit",
+			"settings": {
+				"foreground": "#c16161"
+			}
+		},
+
 		
 	]
 }
