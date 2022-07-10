@@ -520,7 +520,10 @@
 		{
 			"name": "Bibtex key",
 			"scope": [
-				"support.function.text.markdown"
+				"support.function.text.markdown",
+
+				// scope when "Pandoc Citer" extension enabled:
+				"string.other.link.description.markdown.citation"
 			],
 			"settings": {
 				"foreground": "#aa5c08"
@@ -566,6 +569,7 @@
 				"foreground": "#c16161"
 			}
 		},
+		
 
 		
 	]
