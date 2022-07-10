@@ -6,6 +6,13 @@ The overall colors are inspired by the soft beige paper you would find in a note
 
 Although the goal of this theme was to have a pleasant markdown writing experience, it looks good with other docs too! I personally use it for much of my coding work (JS, HTML, CSS, c++, python, glsl).
 
+## Screenshots
+![pen-paper-coffe-vscode1](https://user-images.githubusercontent.com/1710598/173183559-ce87451a-b8e6-46b1-a56b-f131d44adf73.png)
+![pen-paper-coffe-vscode2](https://user-images.githubusercontent.com/1710598/173183561-657ffb83-829c-406e-b54c-b58638f496d0.png)
+![pen-paper-coffe-vscode3](https://user-images.githubusercontent.com/1710598/173183562-3a3fc9a3-f6ce-482e-94a6-1da911182238.png)
+
+
+
 
 ## Original Atom Theme
 
