@@ -1,6 +1,6 @@
 # Pen Paper Coffee :pencil2::scroll::coffee:
 
-*Pen Paper Coffee* is a syntax theme for [Visual Studio Code](https://code.visualstudio.com/) and is specifically designed for writing papers, essays etc. in [markdown](https://en.wikipedia.org/wiki/Markdown).
+*Pen Paper Coffee* is a syntax theme for [Visual Studio Code](https://code.visualstudio.com/) and was originally designed for writing papers, essays etc. in [markdown](https://en.wikipedia.org/wiki/Markdown).
 The theme features  several useful, but not distracting syntax highlightings.
 The overall colors are inspired by the soft beige paper you would find in a notebook. While the ink (text color) is a dark blue, all quotes and citations are in a warm brownish orange to contrast them better to your own words.
 
