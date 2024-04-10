@@ -12,6 +12,11 @@ Although the goal of this theme was to have a pleasant markdown writing experien
 ![pen-paper-coffe-vscode3](https://user-images.githubusercontent.com/1710598/173183562-3a3fc9a3-f6ce-482e-94a6-1da911182238.png)
 
 
+## Installation
+
+The theme is [published](https://marketplace.visualstudio.com/items?itemName=nylki.pen-paper-coffee-vscode) on the marketplace of Visual Studio Code and can be installed like any other color themes.
+
+For more info on how to install color themes in general, please refer to the official [guide](https://code.visualstudio.com/docs/getstarted/themes).
 
 
 ## Original Atom Theme
