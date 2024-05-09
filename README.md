@@ -21,7 +21,7 @@ For more info on how to install color themes in general, please refer to the off
 
 ## Original Atom Theme
 
-This this the adaption of my original ["Pen Paper Coffee"](https://github.com/nylki/pen-paper-coffee-syntax) theme for [Atom](https://atom.io/), which I and apparently quite a few other people have used intensely. Since Atom got abandoned in the last few years, I decided to create a new theme for VS Code which became my new go-to editor for most things.
+This theme is an adaption of my original ["Pen Paper Coffee"](https://github.com/nylki/pen-paper-coffee-syntax) theme for [Atom](https://atom.io/) which got quite popular at the time. Since Atom got abandoned in the last few years, I decided to create a new theme for VS Code which became my new go-to editor for most things.
 I tried to match the colors of the original theme as closely as possible to maintain the feel of the original theme and also made some adjustments for some syntaxes/languages.
 
 Since VS Code themes allow styling of the overall UI, you can now enjoy an even more coffee-paper-like feel with this theme. :D
