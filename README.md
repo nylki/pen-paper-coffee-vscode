@@ -18,7 +18,7 @@ Although the goal of this theme was to have a pleasant markdown writing experien
 
 ## Installation
 
-The theme is [published](https://marketplace.visualstudio.com/items?itemName=nylki.pen-paper-coffee-vscode) on the marketplace of Visual Studio Code and can be installed like any other color themes.
+The theme is [published](https://marketplace.visualstudio.com/items?itemName=nylki.pen-paper-coffee-vscode) on the marketplace of Visual Studio Code and can be installed like any other color theme.
 
 For more info on how to install color themes in general, please refer to the official [guide](https://code.visualstudio.com/docs/getstarted/themes).
 
